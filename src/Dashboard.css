@@ -1,0 +1,13 @@
+.dashboard{
+    background-color: darkkhaki;
+    height: 100%;
+}
+
+.dashboard-cards{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+  
+    
+}

@@ -1,0 +1,9 @@
+.home{
+    background-color: coral;
+    height:100%;
+}
+.home-cards{
+    display: flex;
+    flex-wrap: wrap;
+
+}
